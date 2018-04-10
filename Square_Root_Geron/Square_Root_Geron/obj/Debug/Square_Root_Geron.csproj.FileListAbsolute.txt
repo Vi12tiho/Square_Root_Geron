@@ -1,0 +1,6 @@
+C:\Users\Vitaliy\source\repos\Square_Root_Geron\Square_Root_Geron\bin\Debug\Square_Root_Geron.dll
+C:\Users\Vitaliy\source\repos\Square_Root_Geron\Square_Root_Geron\bin\Debug\Square_Root_Geron.pdb
+C:\Users\Vitaliy\source\repos\Square_Root_Geron\Square_Root_Geron\obj\Debug\Square_Root_Geron.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\source\repos\Square_Root_Geron\Square_Root_Geron\obj\Debug\Square_Root_Geron.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\source\repos\Square_Root_Geron\Square_Root_Geron\obj\Debug\Square_Root_Geron.dll
+C:\Users\Vitaliy\source\repos\Square_Root_Geron\Square_Root_Geron\obj\Debug\Square_Root_Geron.pdb
